@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Parks</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">Map</string>
+    <string name="parks">Parks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_text">Description</string>
+    <string name="activities_text">Activities</string>
+    <string name="topic_text">Topics</string>
+    <string name="entrance_fees">Entrance Fees</string>
+    <string name="operating_hours">Operating Hours</string>
+    <string name="dirction_Text">Directions</string>
+    <string name="no_info">Info Not Available</string>
+    <string name="direction_info">Directions Not available</string>
+    <string name="hint_search">Enter Sate Code: WA, NY, OR</string>
+</resources>
